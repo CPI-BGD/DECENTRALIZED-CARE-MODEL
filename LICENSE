@@ -1,0 +1,159 @@
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## HCV-CARE: Decentralized Model of Care
+**Copyright © 2026 Community Partners International, Bangladesh Mission**
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+---
+
+## You are free to:
+
+**Share** — copy and redistribute the material in any medium or format
+
+**Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+---
+
+## Under the following terms:
+
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## Notices:
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+---
+
+## How to Cite and Attribute
+
+### **For the entire framework:**
+```
+HCV-CARE: Decentralized Model of Care for Hepatitis C and Cardiovascular 
+Disease Management in Rohingya Refugee Camps, Cox's Bazar, Bangladesh. 
+Version 3.0. Community Partners International, Bangladesh Mission (2026).
+https://github.com/CPI-BGD/HCV-CARE
+Available under CC BY 4.0 License.
+```
+
+### **For specific documents:**
+```
+[Document Title]. HCV-CARE Framework, Version 3.0. 
+Community Partners International, Bangladesh Mission (2026).
+https://github.com/CPI-BGD/HCV-CARE
+Author: [Original Author if known]
+Available under CC BY 4.0 License.
+```
+
+### **In HTML/Web:**
+```html
+<p>This work is licensed under a 
+<a href="http://creativecommons.org/licenses/by/4.0/">
+Creative Commons Attribution 4.0 International License</a>.</p>
+<p>Based on work by <a href="https://github.com/CPI-BGD/HCV-CARE">
+Community Partners International, HCV-CARE Project</a></p>
+```
+
+### **In BibTeX (Academic):**
+```bibtex
+@manual{HCV-CARE2026,
+  author = {Islam, Mohammad Ariful and Community Partners International},
+  title = {HCV-CARE: Decentralized Model of Care for Hepatitis C and 
+           Cardiovascular Disease Management in Refugee Settings},
+  version = {3.0},
+  year = {2026},
+  organization = {Community Partners International, Bangladesh Mission},
+  url = {https://github.com/CPI-BGD/HCV-CARE},
+  note = {Licensed under CC BY 4.0}
+}
+```
+
+---
+
+## Permitted Uses
+
+✅ **Educational Use**: Use in training programs, schools, universities
+
+✅ **Adaptation**: Modify for your context (add your logo, translate, adapt for other settings)
+
+✅ **Commercial Use**: Can be used for fee-based training or consulting
+
+✅ **Distribution**: Share with others, publish in other formats
+
+✅ **Derivative Works**: Create new materials based on this framework
+
+✅ **Offline Use**: Print, distribute in printed form, use offline
+
+---
+
+## Required Actions
+
+When using, you MUST:
+
+1. **Give Credit**: State that work is based on HCV-CARE framework
+2. **Provide License**: Include CC BY 4.0 license statement
+3. **Link to Original**: Include link to https://github.com/CPI-BGD/HCV-CARE
+4. **Indicate Changes**: If you modified content, clearly indicate what changed
+
+### **Simple Attribution Example**
+
+```
+This training material is adapted from the HCV-CARE: Decentralized Model 
+of Care Framework (https://github.com/CPI-BGD/HCV-CARE), licensed under 
+CC BY 4.0 by Community Partners International, Bangladesh Mission.
+
+This version includes [describe your changes]. [Year, Your Organization]
+```
+
+---
+
+## Disclaimer
+
+**NO WARRANTIES**: This work is provided "AS IS" without any kind of warranty, express or implied. The authors do not warrant that the information is complete or accurate.
+
+**NOT MEDICAL ADVICE**: While this framework is based on evidence, it should be adapted to local contexts and integrated with government guidelines. Implementation teams must ensure compliance with national laws and professional standards.
+
+**RISK OF USE**: Users are responsible for ensuring that implementation follows all applicable laws, regulations, and professional standards in their country.
+
+---
+
+## Third-Party Materials
+
+This work may include content from other sources:
+- WHO publications (used with proper attribution)
+- Published research (cited appropriately)
+- Best practice documents (referenced)
+
+For questions about third-party materials, contact: healthbgd@cpintl.org
+
+---
+
+## Enforcement
+
+This license is a legal agreement. By using this material, you agree to comply with its terms. Failure to provide proper attribution or violating license terms may result in legal action.
+
+For questions about licensing compliance, contact: healthbgd@cpintl.org
+
+---
+
+## Full Legal Text
+
+For the complete legal text of Creative Commons Attribution 4.0 International, visit:
+http://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+**License Granted:** February 2026  
+**Licensor:** Community Partners International, Bangladesh Mission  
+**Licensor Email:** healthbgd@cpintl.org  
+**License Code:** CC BY 4.0
+

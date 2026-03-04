@@ -1,0 +1,109 @@
+# Jekyll configuration for GitHub Pages
+# This file controls how the website looks and behaves
+
+theme: jekyll-theme-cayman
+title: "HCV-CARE: Decentralized Model of Care"
+tagline: "Integrated HCV & CVD Management for Rohingya Refugee Camps, Cox's Bazar, Bangladesh"
+description: "A comprehensive, evidence-based framework for delivering accessible, effective healthcare in humanitarian settings. Includes strategies, protocols, training materials, and monitoring tools."
+
+# Author information
+author: "Mohammad Ariful Islam, Health Program Manager"
+author_email: "healthbgd@cpintl.org"
+organization: "Community Partners International (CPI), Bangladesh Mission"
+organization_url: "https://cpintl.org"
+
+# Site information
+github_repo_url: "https://github.com/CPI-BGD/HCV-CARE"
+repository: "CPI-BGD/HCV-CARE"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+excerpt_separator: "\n\n"
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
+  training:
+    output: true
+    permalink: /training/:path/
+  templates:
+    output: true
+    permalink: /templates/:path/
+
+# Site settings
+locale: "en_US"
+timezone: "Asia/Dhaka"
+
+# Navigation
+nav_menu:
+  - title: "Home"
+    url: "/"
+  - title: "Strategic Framework"
+    url: "/docs/01-STRATEGIC_FRAMEWORK/"
+  - title: "Implementation"
+    url: "/docs/02-IMPLEMENTATION_GUIDES/"
+  - title: "Clinical Protocols"
+    url: "/docs/03-CLINICAL_PROTOCOLS/"
+  - title: "Training"
+    url: "/training/"
+  - title: "Tools & Templates"
+    url: "/templates/"
+  - title: "M&E"
+    url: "/docs/05-MONITORING_EVALUATION/"
+  - title: "FAQ"
+    url: "/docs/08-FAQ/"
+
+# Version information
+version: "3.0"
+last_updated: "February 2026"
+status: "Active & Current"
+
+# License
+license: "CC BY 4.0"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+
+# Features
+breadcrumbs: true
+search_enabled: true
+table_of_contents: true
+
+# Social media (optional)
+social:
+  - platform: "GitHub"
+    url: "https://github.com/CPI-BGD"
+  - platform: "Website"
+    url: "https://cpintl.org"
+
+# Analytics (optional - add your tracking ID)
+google_analytics: "UA-XXXXXXXXX-X"  # Replace with your GA tracking ID
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jemoji
+
+# SEO
+seo_tag:
+  name: "HCV-CARE"
+  description: "Decentralized Model of Care for HCV & CVD in Humanitarian Settings"
+  twitter:
+    username: "CPI"
+
+# Exclude from processing
+exclude:
+  - .github
+  - .gitignore
+  - LICENSE
+  - README.md
+  - vendor
+
+# Include
+include:
+  - .htaccess
+  - _pages

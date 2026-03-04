@@ -1,15 +1,13 @@
-# 🏥 DECENTRALIZED MODEL OF CARE
-
+# 🏥 HCV-CARE: Decentralized Model of Care
 ## A Community-Centric Integrated Care Framework for HCV & CVD Management in Humanitarian Settings
 
-> **Contextualized for Cox's Bazar Rohingya Refugee Camps, Bangladesh**  
-
-**AUTHOR** : MOHAMMAD ARIFUL ISLAM, Health Program Manager  
-**ORGANIZATION** : COMMUNITY PARTNERS INTERNATIONAL (CPI), BANGLADESH MISSION
+> **Cox's Bazar Rohingya Refugee Camps, Bangladesh**  
+> *Developed by MOHAMMAD ARIFUL ISLAM, Health Program Manager*  
+> *COMMUNITY PARTNERS INTERNATIONAL (CPI), BANGLADESH MISSION*
 
 ---
 
-![CPI Bangladesh Health Program](https://img.shields.io/badge/CPI%20Bangladesh-Health%20Program-brightgreen) ![Version 3.0](https://img.shields.io/badge/Version-1.0-blue) ![Last Updated Feb 2026](https://img.shields.io/badge/Last%20Updated-Feb%202026-green) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+![CPI Bangladesh Health Program](https://img.shields.io/badge/CPI%20Bangladesh-Health%20Program-brightgreen) ![Version 3.0](https://img.shields.io/badge/Version-3.0-blue) ![Last Updated Feb 2026](https://img.shields.io/badge/Last%20Updated-Feb%202026-green) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 ---
 
@@ -123,7 +121,7 @@
 ### **Program Goals (2026)**
 - 🎯 **90%** population screened
 - 🎯 **80%** of HCV-infected identified
-- 🎯 **1,500** patients treated
+- 🎯 **8,400** patients treated
 - 🎯 **95%** cure rates (SVR12)
 - 🎯 **50%** reduction in HCV-related morbidity
 
@@ -138,16 +136,17 @@
 ## 🏢 Implementation Sites
 
 ### **Camp 1W** (Blocks A, B, C)
-- Health Outreach (HO) Program Activities
-- Health Post (HP) Program Activities
-- Target population: ~32,000
+- Health Outreach activities
+- Health Post-based care
+- Target population: ~50,000
 
 ### **Camp 04** (Blocks D, F)
-- Health Outreach (HO) Program Activities
-- Target population: ~10,000
+- Health Outreach activities
+- Health Post-based care
+- Target population: ~40,000
 
 ### **Camp 05** (Via RTMI Partner)
-- CPI Health System Strengthening (HSS) Program
+- CPI HSS Support program
 - Target population: ~30,000
 
 ---
@@ -190,26 +189,26 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to:
 
 | Document | Version | Last Updated | Status |
 |---|---|---|---|
-| Framework & Strategy | 1.0 | Feb 2026 | ✅ Current |
-| SOPs & Protocols | 1.0 | Feb 2026 | ✅ Current |
-| Training Modules | 1.0 | Jan 2026 | ✅ Current |
-| M&E Framework | 1.0 | Feb 2026 | ✅ Current |
-| Policy Briefs | 1.0 | Feb 2026 | ✅ Current |
-| Data Tools | 1.0 | Feb 2026 | ✅ Current |
+| Framework & Strategy | 3.0 | Feb 2026 | ✅ Current |
+| SOPs & Protocols | 3.0 | Feb 2026 | ✅ Current |
+| Training Modules | 2.0 | Jan 2026 | ✅ Current |
+| M&E Framework | 2.5 | Feb 2026 | ✅ Current |
+| Policy Briefs | 1.0 | Feb 2026 | ✅ New |
+| Data Tools | 2.0 | Feb 2026 | ✅ Current |
 
 ---
 
 ## 📚 How to Navigate This Repository
 
 ### **Web (GitHub Pages - Most User-Friendly)**
-Visit: **[https://cpi-bgd.github.io/HCV-CARE](https://cpi-bgd.github.io/DECENTRALIZED-CARE-MODEL)**
+Visit: **[https://cpi-bgd.github.io/HCV-CARE](https://cpi-bgd.github.io/HCV-CARE)**
 - Clean, organized interface
 - Search functionality
 - Mobile-friendly
 - Best for non-technical users
 
 ### **GitHub Repository**
-Visit: **[https://github.com/CPI-BGD/HCV-CARE](https://github.com/CPI-BGD/DECENTRALIZED-CARE-MODEL)**
+Visit: **[https://github.com/CPI-BGD/HCV-CARE](https://github.com/CPI-BGD/HCV-CARE)**
 - Raw files available
 - Version control
 - Contribution tracking
@@ -226,17 +225,17 @@ Visit: **[https://github.com/CPI-BGD/HCV-CARE](https://github.com/CPI-BGD/DECENT
 
 ### **Structured Training Pathways**
 
-**For CHWs**:
+**For CHWs** (1-2 weeks):
 - [Module 1: HCV & CVD Basics](training/01_CHW_Training_Complete.md)
 - [Module 2: Community Screening](training/01_CHW_Training_Complete.md#module-2)
 - [Module 3: Patient Support](training/01_CHW_Training_Complete.md#module-3)
 
-**For Nurses**:
+**For Nurses** (2-3 weeks):
 - [All CHW modules](training/01_CHW_Training_Complete.md) + Advanced modules
 - [Patient Counseling](training/02_Nurse_Training_Complete.md)
 - [Treatment Monitoring](training/02_Nurse_Training_Complete.md)
 
-**For Medical Officers**:
+**For Medical Officers** (3-4 weeks):
 - [Advanced clinical management](training/03_MO_Training_Complete.md)
 - [Treatment algorithms](training/03_MO_Training_Complete.md)
 - [Complications management](training/03_MO_Training_Complete.md)
@@ -379,10 +378,12 @@ This work is licensed under **Creative Commons Attribution 4.0 International (CC
 ## 📚 Citation
 
 **How to cite this framework:**
-
-Mohammad Ariful ISLAM (2026). HCV-CARE: Decentralized Model of Care for Hepatitis C and Cardiovascular Disease in Rohingya Refugee Camps, Cox's Bazar, Bangladesh. Community Partners International, Bangladesh Mission.
-[GitHub Repository: ](https://github.com/CPI-BGD/DECENTRALIZED-CARE-MODEL)
-
+```
+Islam, M. A. (2026). HCV-CARE: Decentralized Model of Care for 
+Hepatitis C and Cardiovascular Disease in Rohingya Refugee Camps, 
+Cox's Bazar, Bangladesh. Community Partners International, Bangladesh 
+Mission. GitHub Repository: https://github.com/CPI-BGD/HCV-CARE
+```
 
 ---
 
@@ -411,14 +412,15 @@ Mohammad Ariful ISLAM (2026). HCV-CARE: Decentralized Model of Care for Hepatiti
 ---
 
 **Last Updated:** February 2026  
-**Version:** 1.0  
+**Version:** 3.0  
 **Status:** ✅ Active & Current  
 **Maintenance:** Quarterly updates  
 
 ---
 
-### 🌟 **[Start Exploring →](docs/NAVIGATION.md)** | [View on GitHub →](https://github.com/CPI-BGD/DECENTRALIZED-CARE-MODEL) | [Report Issue →](https://github.com/CPI-BGD/DECENTRALIZED-CARE-MODEL/issues/new)
+### 🌟 **[Start Exploring →](docs/NAVIGATION.md)** | [View on GitHub →](https://github.com/CPI-BGD/HCV-CARE) | [Report Issue →](https://github.com/CPI-BGD/HCV-CARE/issues/new)
 
 ---
 
 *Making hepatitis C treatment & cardiovascular care accessible in the world's largest refugee settlement*
+
