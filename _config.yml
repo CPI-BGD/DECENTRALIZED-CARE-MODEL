@@ -13,8 +13,8 @@ organization: "Community Partners International (CPI), Bangladesh Mission"
 organization_url: "https://cpintl.org"
 
 # Site information
-github_repo_url: "https://github.com/CPI-BGD/HCV-CARE"
-repository: "CPI-BGD/HCV-CARE"
+github_repo_url: "https://github.com/CPI-BGD/DECENTRALIZED-CARE-MODEL"
+repository: "CPI-BGD/DECENTRALIZED-CARE-MODEL"
 
 # Build settings
 markdown: kramdown
